@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3fc97cb-4ae9-4b9a-b7fb-335c598cf1f3" name="Changes" comment="first commit" />
+    <list default="true" id="b3fc97cb-4ae9-4b9a-b7fb-335c598cf1f3" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProductoAdyacentes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/ProductoAdyacentesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +26,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sophietl"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/cato-punk/NumerosAdyacentes.git",
@@ -52,10 +66,13 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/sophiatorreslagos/IdeaProjects/casoAdyacentes/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.ProductoAdyacentesTest.testExcepcionPorTamaño">
+  <component name="RunManager" selected="Application.ProductoAdyacentes">
     <configuration name="ProductoAdyacentes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ProductoAdyacentes" />
       <module name="casoAdyacentes" />
@@ -105,10 +122,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProductoAdyacentes" />
         <item itemvalue="JUnit.ProductoAdyacentesTest.testExcepcionPorTamaño" />
         <item itemvalue="JUnit.ProductoAdyacentesTest.testNegativos" />
         <item itemvalue="JUnit.ProductoAdyacentesTest.testCasoBase" />
-        <item itemvalue="Application.ProductoAdyacentes" />
         <item itemvalue="JUnit.ProductoAdyacentesTest.testValoresAltos" />
       </list>
     </recent_temporary>
@@ -130,7 +147,7 @@
       <option name="presentableId" value="Default" />
       <updated>1746753807133</updated>
       <workItem from="1746753808086" duration="960000" />
-      <workItem from="1746754834188" duration="2581000" />
+      <workItem from="1746754834188" duration="3580000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
